@@ -1,4 +1,10 @@
-## 🌐 Socials:
+<h1 align="center">Hi 👋, I'm Stevenwaheed</h1>
+<h3 align="center">A passionate Machine Learning developer from Egypt</h3>
+
+- 🔭 I’m currently working on [Authentication System](https://github.com/Stevenwaheed/Heartizm-Authentication)
+
+
+<h3 align="left">Social:</h3>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Steven-W.-Saad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/steven_w.s_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Steven-Waheed) 
 
 
