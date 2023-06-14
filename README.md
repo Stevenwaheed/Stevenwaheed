@@ -3,6 +3,14 @@
 
 - 🔭 I’m currently working on [Authentication System](https://github.com/Stevenwaheed/Heartizm-Authentication)
 
+- 🌱 I’m currently learning Data analysis and Machine Learning
+
+- 📫 How to reach me **stevenwaheed2@gmail.com**
+
+- 📄 Know about my [Steven Waheed Resume]
+(https://drive.google.com/file/d/1E6yJLXoh-BvxLsYxshoUKWLrym1XIBsQ/view?usp=sharing)
+
+
 
 <h3 align="left">Socials:</h3>
 
