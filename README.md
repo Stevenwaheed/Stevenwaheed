@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Steven Waheed</h1>
+<h1 align="center">Hi 👋, I'm Stevenwaheed</h1>
 <h3 align="center">A passionate Machine Learning developer from Egypt</h3>
 
 - 🔭 I’m currently working on [Authentication System](https://github.com/Stevenwaheed/Heartizm-Authentication)
+
+- 🌱 I’m currently learning **Data analysis and Machine Learning**
+
+- 📫 How to reach me **stevenwaheed2@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1E6yJLXoh-BvxLsYxshoUKWLrym1XIBsQ/view?usp=sharing](https://drive.google.com/file/d/1E6yJLXoh-BvxLsYxshoUKWLrym1XIBsQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
