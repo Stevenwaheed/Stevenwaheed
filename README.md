@@ -22,7 +22,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Stevenwaheed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Stevenwaheed&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Stevenwaheed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevenwaheed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Random Dev Quote
