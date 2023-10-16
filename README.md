@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steven Waheed</h1>
 <h3 align="center">A passionate Machine Learning developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Authentication System](https://github.com/Stevenwaheed/Heartizm-Authentication)
+- 🔭 I’m currently working on [Authentication System](https://github.com/Stevenwaheed/CardioAuth.git)
 
 - 🌱 I’m currently learning Data analysis and Machine Learning
 
