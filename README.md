@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **stevenwaheed2@gmail.com**
 
-- 📄 Know about my [Steven Waheed Resume](https://drive.google.com/file/d/1wP4voBJyMawGwgSpeJ7NSG4q6rlqWP5q/view?usp=sharing)
+- 📄 Know about my [Steven Waheed Resume](https://drive.google.com/file/d/1RBZCBOG3il5HFbrX8xtePtsITaFiqFbr/view?usp=sharing)
 
 
 
