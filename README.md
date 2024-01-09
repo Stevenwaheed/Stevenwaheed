@@ -21,7 +21,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Stevenwaheed&theme=dark&height=20&hide_border=false&include_all_commits=true&count_private=true"></a>
+![](https://github-readme-stats.vercel.app/api?username=Stevenwaheed&theme=dark&height=20&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevenwaheed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stevenwaheed&theme=dark&hide_border=false)
