@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning Developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Developer;Data+Science+Enthusiast;AI+Researcher;Full+Stack+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Developer;Data+Science+Enthusiast;AI+Researcher&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <div align="center">
@@ -95,9 +95,6 @@ A novel approach to authentication using ECG signals for enhanced security and p
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stevenwaheed&theme=radical&hide_border=false" alt="GitHub Streak Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevenwaheed&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-
-## 📈 Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=Stevenwaheed&theme=react-dark&hide_border=true" width="100%"/>
 
 ## 🏆 Certifications
 - Machine Learning Specialization - Stanford University/Coursera
