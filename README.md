@@ -271,12 +271,6 @@ A revolutionary biometric authentication system using ECG signals for enhanced s
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-<!-- SPOTIFY -->
-<div align="center">
-  <br/>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hxamjyfxer5zujscactbryp2te&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-</div>
-
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
