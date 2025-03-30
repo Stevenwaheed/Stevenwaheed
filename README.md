@@ -271,11 +271,6 @@ A revolutionary biometric authentication system using ECG signals for enhanced s
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Stevenwaheed/Stevenwaheed/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 <!-- SPOTIFY -->
 <div align="center">
   <br/>
