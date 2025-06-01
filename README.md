@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Machine+Learning+Engineer;Computer+Vision+Specialist;AI+Research+Professional;Deep+Learning+Expert;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Machine+Learning+Engineer;Computer+Vision+Specialist;AI+Research+Professional" alt="Typing SVG" />
 </div>
 
 <br />
