@@ -203,9 +203,6 @@ I am a distinguished **Machine Learning Engineer** specializing in **Computer Vi
 
 ## 📚 Research & Publications
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Research Animation" />
-</div>
 
 ### 📄 Recent Publications
 - **"ECG-Based Authentication: A Comprehensive Security Analysis"** - *International Conference on Biometrics, 2023*
@@ -219,10 +216,6 @@ I am a distinguished **Machine Learning Engineer** specializing in **Computer Vi
 ---
 
 ## 🎯 Goals & Interests
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Goals Animation" />
-</div>
 
 ### 🚀 2025 Objectives
 - ✅ Contribute to 3+ open-source ML frameworks
