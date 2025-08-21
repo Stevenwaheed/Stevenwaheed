@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1eafc,100:6366f1&height=200&section=header&text=Steven%20Waheed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%20AI%20Researcher&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1eafc,100:6366f1&height=200&section=header&text=Steven%20Waheed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Machine%20Learning%20Engineer&descAlignY=55&descSize=16" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Machine+Learning+Engineer;Computer+Vision+Specialist;AI+Research+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Developer;Machine+Learning+Engineer;Full+Stack+AI+Solutions" alt="Typing SVG" />
 </div>
 
 <br />
@@ -32,14 +32,14 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="AI Development Animation" />
 
-I am a distinguished **Machine Learning Engineer** specializing in **Computer Vision** and **Deep Learning** architectures. My professional focus centers on developing sophisticated AI solutions for complex, real-world challenges. With expertise in constructing end-to-end machine learning pipelines, I create robust, production-grade models that deliver measurable business value.
+I am a distinguished **Backend Developer** and **Machine Learning Engineer** specializing in building comprehensive end-to-end systems that integrate robust backend architectures with intelligent AI capabilities. My expertise spans from database design and API development to advanced machine learning model deployment, creating scalable production-grade solutions that solve real-world business challenges.
 
 ### 🚀 Current Focus
 - 🔬 **Research**: Advanced ECG biometric authentication systems at [CardioAuth](https://github.com/Stevenwaheed/CardioAuth.git)
-- 🌱 **Learning**: MLOps, Cloud-Native AI Infrastructure, and Advanced Computer Vision Techniques
-- 🤝 **Collaborating**: Open to partnerships on pioneering machine learning research initiatives
-- 🎯 **2025 Goals**: Contribute to open-source ML frameworks and publish research in peer-reviewed journals
-- 💡 **Expertise**: Machine Learning Systems, Computer Vision, Neural Networks, Python Development, AI Ethics
+- 🌱 **Learning**: MLOps, Cloud-Native AI Infrastructure, and Advanced System Architecture
+- 🤝 **Collaborating**: Open to partnerships on innovative backend and AI integration projects
+- 🎯 **2025 Goals**: Contribute to open-source ML frameworks and enterprise-grade backend solutions
+- 💡 **Expertise**: Full-Stack Backend Systems, Machine Learning Pipelines, Database Architecture, API Design, AI Integration
 
 <br clear="right"/>
 
@@ -92,6 +92,16 @@ I am a distinguished **Machine Learning Engineer** specializing in **Computer Vi
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
 ### Machine Learning & AI
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -116,7 +126,7 @@ I am a distinguished **Machine Learning Engineer** specializing in **Computer Vi
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
 </p>
 
 ---
@@ -144,16 +154,70 @@ I am a distinguished **Machine Learning Engineer** specializing in **Computer Vi
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Project Animation" />
 </div>
 
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25"> [Knowrithm - Enterprise Multi-Agent Chatbot Platform](https://github.com/Stevenwaheed/Knowrithm)
+
+<div align="center">
+  <img src="https://progress-bar.dev/95/?scale=100&title=Progress&width=400&color=6366f1" alt="95% Complete" />
+</div>
+
+**Comprehensive Flask-based platform enabling companies to create, train, and deploy intelligent chatbot agents with advanced NLP capabilities and enterprise-grade scalability.**
+
+**🏢 Platform Overview**
+- **Multi-Agent Management**: Create specialized chatbots for different business functions
+- **Custom Training**: Upload documents, connect databases, integrate websites
+- **Enterprise Scale**: Multi-tenant architecture with complete data isolation
+- **Advanced Analytics**: Lead conversion tracking and performance monitoring
+
+**🚀 Core Features**
+- **Technologies**: `Flask` `PostgreSQL` `Redis` `Celery` `JWT` `Vector Search`
+- **AI Integration**: `Gemini API` `Custom Embeddings` `OCR Processing`
+- **Data Sources**: `XML` `PDF` `DOCX` `CSV` `JSON` `Databases` `Websites`
+- **Security**: Multi-level authentication, data encryption, audit logging
+
+**📊 Technical Architecture**
+- **Backend**: Flask with SQLAlchemy ORM and connection pooling
+- **Queue System**: Celery workers for asynchronous processing
+- **Cache Layer**: Redis for high-performance caching and message brokering
+- **Database**: PostgreSQL with multi-tenant data isolation
+- **Status**: 🟢 Production Ready
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25"> [Syrian Digital Wallet - Fintech Platform](https://github.com/Stevenwaheed/SyrianWallet)
+
+<div align="center">
+  <img src="https://progress-bar.dev/92/?scale=100&title=Progress&width=400&color=00ff00" alt="92% Complete" />
+</div>
+
+**Comprehensive financial technology solution addressing unique challenges of digital payments in the Syrian market with telecom integration and advanced security features.**
+
+**🌟 Key Value Propositions**
+- **Telecom Integration**: Seamless MTN Cash and Syriatel Cash top-up
+- **P2P Transfers**: Instant, secure money transfers between users
+- **Digital Commerce**: Game credits, e-cards, and digital services
+- **Multi-language Support**: Arabic and English interface
+
+**🔐 Core Features**
+- **Technologies**: `Flask` `PostgreSQL` `JWT` `Redis` `Rate Limiting`
+- **Security**: Multi-factor authentication, end-to-end encryption, audit logging
+- **Financial Operations**: Real-time balance updates, configurable limits, escrow system
+- **Admin Tools**: Real-time dashboard, transaction monitoring, fraud detection
+
+**💰 Financial Architecture**
+- **Currency Support**: Syrian Pound (SYP) with multi-currency readiness
+- **Transaction Processing**: Real-time with comprehensive fee management
+- **Compliance**: KYC-compliant profiles and regulatory reporting
+- **Status**: 🟢 Active Development
+
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25"> [CardioAuth](https://github.com/Stevenwaheed/CardioAuth) - ECG Biometric Authentication
 
 <div align="center">
-  <img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=400&color=6366f1" alt="90% Complete" />
+  <img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=400&color=ff9500" alt="90% Complete" />
 </div>
 
-**Advanced biometric authentication system utilizing electrocardiogram signals**
+**Advanced biometric authentication system utilizing electrocardiogram signals with deep learning models for secure identity verification.**
 - **Technologies**: `Python` `TensorFlow` `PyTorch` `Signal Processing` `Flask`
 - **Features**: Real-time ECG analysis, Neural network classification, RESTful API
-- **Status**: 🟢 Active Development
+- **ML Pipeline**: End-to-end training, preprocessing, and inference system
+- **Status**: 🟢 Research & Development
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25"> [Object Detection System](https://github.com/Stevenwaheed/Object-Detection)
 
@@ -161,73 +225,30 @@ I am a distinguished **Machine Learning Engineer** specializing in **Computer Vi
   <img src="https://progress-bar.dev/100/?scale=100&title=Progress&width=400&color=00ff00" alt="100% Complete" />
 </div>
 
-**Real-time object detection with custom trained models**
-- **Technologies**: `Python` `YOLO` `OpenCV` `TensorFlow`
+**Real-time object detection system with custom trained models and production-ready API endpoints.**
+- **Technologies**: `Python` `YOLO` `OpenCV` `TensorFlow` `Flask API`
 - **Features**: Real-time processing, Custom model training, Web interface
-- **Accuracy**: 98.7% detection accuracy
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25"> Machine Learning Pipeline Framework
-
-<div align="center">
-  <img src="https://progress-bar.dev/85/?scale=100&title=Progress&width=400&color=ff9500" alt="85% Complete" />
-</div>
-
-**Scalable ML pipeline for production environments**
-- **Technologies**: `Python` `Apache Airflow` `Docker` `Kubernetes`
-- **Features**: Automated training, Model versioning, A/B testing
-- **Scale**: Processes 10TB+ data daily
-
----
-
-## 💼 Professional Experience
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" alt="Experience Animation" />
-</div>
-
-### 🏢 Senior Machine Learning Engineer | AI Research Institute
-**📅 2023 - Present**
-- 🔬 Lead development of biometric authentication systems using ECG signals
-- 🚀 Architected and deployed production ML systems serving 1M+ requests daily
-- 👥 Mentored team of 5 junior ML engineers and data scientists
-- ⚡ Reduced model inference time by 65% through optimization techniques
-
-### 🏢 Machine Learning Engineer | Tech Innovations Inc.
-**📅 2020 - 2023**
-- 🎯 Developed computer vision solutions with 98.7% accuracy for industrial applications
-- 🔄 Built automated ML pipelines processing terabytes of data
-- 🤝 Collaborated with cross-functional teams to deliver AI-powered products
-- 📊 Published 3 technical papers in peer-reviewed conferences
-
----
-
-## 📚 Research & Publications
-
-
-### 📄 Recent Publications
-- **"ECG-Based Authentication: A Comprehensive Security Analysis"** - *International Conference on Biometrics, 2023*
-- **"Transfer Learning Applications in Medical Imaging"** - *IEEE Transactions on Medical Imaging, 2023*
-- **"Optimizing Deep Learning Models for Production"** - *Journal of Machine Learning Research, 2024*
-
-### 🎤 Conference Presentations
-- Speaker at **AI/ML Conference 2023** - "Scaling ML Systems for Production"
-- Presenter at **Computer Vision Summit 2022** - "Advanced Object Detection Techniques"
+- **Performance**: 98.7% detection accuracy with optimized inference
+- **Deployment**: Containerized with Docker and Kubernetes ready
 
 ---
 
 ## 🎯 Goals & Interests
 
 ### 🚀 2025 Objectives
-- ✅ Contribute to 3+ open-source ML frameworks
-- 📝 Publish research in top-tier AI conferences
-- 🚀 Launch production-ready CardioAuth system
-- 👨‍🏫 Mentor next generation of ML engineers
+- ✅ Open-source major backend framework contributions
+- 📝 Publish research on AI-backend integration patterns
+- 🚀 Launch production CardioAuth system for healthcare sector
+- 👨‍🏫 Mentor backend developers in AI integration techniques
+- 🏗️ Establish backend architecture best practices documentation
 
-### 🔬 Research Interests
-- 🫀 Biometric authentication systems
-- 🏥 Computer vision in healthcare
-- 📱 Edge AI optimization
-- ⚖️ Ethical AI development
+### 🔬 Research & Development Interests
+- 🫀 Biometric authentication in distributed systems
+- 🏥 Healthcare AI backend infrastructure
+- 💰 Blockchain integration with traditional backend systems
+- 🚀 Edge computing for ML inference
+- ⚖️ Ethical AI deployment in production environments
+- 🔒 Advanced security patterns for AI-powered applications
 
 ---
 
@@ -255,7 +276,7 @@ I am a distinguished **Machine Learning Engineer** specializing in **Computer Vi
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20backend%20systems%20are%20invisible%20to%20users%20but%20indispensable%20to%20businesses.&author=Steven%20Waheed&border=true" />
 </div>
 
 <div align="center">
