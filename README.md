@@ -45,38 +45,6 @@ I am a distinguished **Backend Developer** and **Machine Learning Engineer** spe
 
 ---
 
-## 🏆 Professional Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img width="60" height="60" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="TensorFlow"/>
-        <br><br>
-        <strong>TensorFlow Certified Developer</strong>
-        <br>
-        <em>Google AI Certification</em>
-      </td>
-      <td align="center" width="33%">
-        <img width="60" height="60" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Stanford"/>
-        <br><br>
-        <strong>ML Specialization</strong>
-        <br>
-        <em>Stanford University</em>
-      </td>
-      <td align="center" width="33%">
-        <img width="60" height="60" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="PyTorch"/>
-        <br><br>
-        <strong>Deep Learning Specialization</strong>
-        <br>
-        <em>DeepLearning.AI</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🛠️ Technical Stack
 
 <div align="center">
@@ -181,7 +149,7 @@ I am a distinguished **Backend Developer** and **Machine Learning Engineer** spe
 - **Database**: PostgreSQL with multi-tenant data isolation
 - **Status**: 🟢 Production Ready
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25"> [Syrian Digital Wallet - Fintech Platform](https://github.com/Stevenwaheed/SyrianWallet)
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25"> [Syrian Digital Wallet - Fintech Platform](https://github.com/LotusB2B/E-Bank)
 
 <div align="center">
   <img src="https://progress-bar.dev/92/?scale=100&title=Progress&width=400&color=00ff00" alt="92% Complete" />
@@ -218,18 +186,6 @@ I am a distinguished **Backend Developer** and **Machine Learning Engineer** spe
 - **Features**: Real-time ECG analysis, Neural network classification, RESTful API
 - **ML Pipeline**: End-to-end training, preprocessing, and inference system
 - **Status**: 🟢 Research & Development
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25"> [Object Detection System](https://github.com/Stevenwaheed/Object-Detection)
-
-<div align="center">
-  <img src="https://progress-bar.dev/100/?scale=100&title=Progress&width=400&color=00ff00" alt="100% Complete" />
-</div>
-
-**Real-time object detection system with custom trained models and production-ready API endpoints.**
-- **Technologies**: `Python` `YOLO` `OpenCV` `TensorFlow` `Flask API`
-- **Features**: Real-time processing, Custom model training, Web interface
-- **Performance**: 98.7% detection accuracy with optimized inference
-- **Deployment**: Containerized with Docker and Kubernetes ready
 
 ---
 
