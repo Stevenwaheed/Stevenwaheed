@@ -114,7 +114,7 @@ My core strength is bridging AI capabilities with scalable backend architecture 
 ## 💼 Professional Experience
 
 ### 🏢 Backend & AI Engineer — Aqary International Group
-**Jan 2024 – Present · Abu Dhabi, UAE**
+**Jan 2024 – Present · Hybrid — Abu Dhabi, UAE**
 
 Aqary is a UAE-based real estate technology company. As their Backend & AI Engineer, I own the AI layer and core backend infrastructure powering their CRM, property portals, and internal tooling.
 
