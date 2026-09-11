@@ -38,7 +38,7 @@ My core strength is bridging AI capabilities with scalable backend architecture 
 - 🏗️ **Backend**: Production-grade Django, Flask, FastAPI microservices on Azure & AWS
 - 🔬 **Research**: ECG biometric authentication at [CardioAuth](https://github.com/Stevenwaheed/CardioAuth)
 - 🌱 **Learning**: Advanced Python backend engineering, MLOps, cloud-native infrastructure
-- 📍 **Location**: Abu Dhabi, UAE · `+971 58 560 9293`
+- 📍 **Location**: Abu Dhabi, UAE · `+201278033567`
 
 <br clear="right"/>
 
