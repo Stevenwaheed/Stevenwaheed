@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 64" width="900" height="64" role="img"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity=".9"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="8" width="64" height="48" rx="12" fill="url(#g)"/>
+<text x="32" y="41" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="22" font-weight="700" fill="#0b0d1a">04</text>
+<text x="84" y="42" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="5" fill="url(#g)">EXPERIENCE</text>
+<rect x="328" y="31" width="572" height="2" fill="url(#l)"/>
+<circle cx="328" cy="32" r="4" fill="#22d3ee"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle></svg>

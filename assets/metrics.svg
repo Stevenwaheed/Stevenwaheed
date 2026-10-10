@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="900" height="150" role="img"><defs><linearGradient id="m0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".04"/></linearGradient></defs>
+<rect x="0" y="0" width="213" height="150" rx="16" fill="#12152b"/><rect x="0" y="0" width="213" height="150" rx="16" fill="url(#m0)" stroke="#22d3ee" stroke-opacity=".55"/>
+<rect x="20" y="0" width="44" height="4" rx="2" fill="#22d3ee"/>
+<text x="22" y="68" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#22d3ee">~35%</text>
+<text x="22" y="100" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1f2ff">faster API responses</text>
+<text x="22" y="122" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b91c4">N+1 query elimination</text><defs><linearGradient id="m1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa" stop-opacity=".22"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".04"/></linearGradient></defs>
+<rect x="229" y="0" width="213" height="150" rx="16" fill="#12152b"/><rect x="229" y="0" width="213" height="150" rx="16" fill="url(#m1)" stroke="#a78bfa" stroke-opacity=".55"/>
+<rect x="249" y="0" width="44" height="4" rx="2" fill="#a78bfa"/>
+<text x="251" y="68" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#a78bfa">~40%</text>
+<text x="251" y="100" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1f2ff">sales efficiency</text>
+<text x="251" y="122" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b91c4">Zoho CRM automation</text><defs><linearGradient id="m2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f472b6" stop-opacity=".22"/><stop offset="1" stop-color="#f472b6" stop-opacity=".04"/></linearGradient></defs>
+<rect x="458" y="0" width="213" height="150" rx="16" fill="#12152b"/><rect x="458" y="0" width="213" height="150" rx="16" fill="url(#m2)" stroke="#f472b6" stroke-opacity=".55"/>
+<rect x="478" y="0" width="44" height="4" rx="2" fill="#f472b6"/>
+<text x="480" y="68" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#f472b6">20+</text>
+<text x="480" y="100" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1f2ff">operators automated</text>
+<text x="480" y="122" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b91c4">replacing manual entry</text><defs><linearGradient id="m3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbbf24" stop-opacity=".22"/><stop offset="1" stop-color="#fbbf24" stop-opacity=".04"/></linearGradient></defs>
+<rect x="687" y="0" width="213" height="150" rx="16" fill="#12152b"/><rect x="687" y="0" width="213" height="150" rx="16" fill="url(#m3)" stroke="#fbbf24" stroke-opacity=".55"/>
+<rect x="707" y="0" width="44" height="4" rx="2" fill="#fbbf24"/>
+<text x="709" y="68" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#fbbf24">1,000+</text>
+<text x="709" y="100" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f1f2ff">daily operations</text>
+<text x="709" y="122" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b91c4">e-banking admin panel</text></svg>
