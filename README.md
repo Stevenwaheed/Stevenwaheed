@@ -8,7 +8,7 @@ Python · FastAPI · LangChain · RAG · PostgreSQL / pgvector
 
 Assiut, Egypt · Working with Aqary International Group (Abu Dhabi, hybrid)
 
-<a href="mailto:stevesaad35@gmail.com"><img src="https://img.shields.io/badge/Email-stevesaad35@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:stevensaad35@gmail.com"><img src="https://img.shields.io/badge/Email-stevesaad35@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/stevensaad11/"><img src="https://img.shields.io/badge/LinkedIn-stevensaad11-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://portfolio-three-tau-3ddvfz7ffw.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://github.com/Knowrithm"><img src="https://img.shields.io/badge/Knowrithm-Organization-111827?style=flat-square&logo=github&logoColor=white" alt="Knowrithm"></a>
