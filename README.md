@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="mailto:stevensaad35@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44"></a>
+<a href="mailto:stevesaad35@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44"></a>
 <a href="https://www.linkedin.com/in/stevensaad11/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"></a>
 <a href="https://github.com/Knowrithm"><img src="assets/btn-knowrithm.svg" alt="Knowrithm on GitHub" height="44"></a>
 <a href="https://portfolio-three-tau-3ddvfz7ffw.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="44"></a>
